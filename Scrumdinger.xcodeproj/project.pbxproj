@@ -63,13 +63,13 @@
 		3ACDD80228D4678600D738CC /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				3ACDD81128D588D000D738CC /* Models */,
 				3ACDD81C28D5B28E00D738CC /* DetailView.swift */,
 				3ACDD81A28D5979200D738CC /* ScrumsView.swift */,
 				3ACDD81828D592CC00D738CC /* TrailingIconLabelStyle.swift */,
 				3ACDD81628D58DB600D738CC /* CardView.swift */,
 				3ACDD80328D4678600D738CC /* ScrumdingerApp.swift */,
 				3ACDD80528D4678600D738CC /* MeetingView.swift */,
-				3ACDD81128D588D000D738CC /* Models */,
 				3ACDD80728D4678800D738CC /* Assets.xcassets */,
 				3ACDD80928D4678800D738CC /* Preview Content */,
 			);
